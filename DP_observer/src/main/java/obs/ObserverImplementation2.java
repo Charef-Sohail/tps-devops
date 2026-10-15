@@ -7,7 +7,9 @@ public class ObserverImplementation2 implements Observer {
     private final List<Integer> history = new ArrayList<>();
 
     @Override
-    public void update(int newState) {
+    public void update(Observable observable) {
+        if (observable instanceof ObservableImplementation obsImpl) {
+            int newState = obsImpl.getState();
             history.add(newState);
 
             double sum = 0;
