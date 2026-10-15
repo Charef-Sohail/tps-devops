@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^Test-Path 'C:\\\\Users\\\\Sohail\\\\OneDrive\\\\Desktop\\\\ENSET\\\\S5\\\\tps devops\\\\DP_decorator\\\\README\\.md'; Test-Path 'C:\\\\Users\\\\Sohail\\\\OneDrive\\\\Desktop\\\\ENSET\\\\S5\\\\tps devops\\\\media\\\\decorator\\.png'; Test-Path 'C:\\\\Users\\\\Sohail\\\\OneDrive\\\\Desktop\\\\ENSET\\\\S5\\\\tps devops\\\\media\\\\boisson_decorator\\.png'$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
