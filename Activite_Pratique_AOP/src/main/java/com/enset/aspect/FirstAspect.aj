@@ -16,8 +16,8 @@ public aspect FirstAspect {
 
     // Autour de la méthode ciblée
     void around() : pc1() {
-        System.out.println("before");
+        System.out.println("before main from aspect j syntax");
         proceed();
-        System.out.println("after");
+        System.out.println("after main from aspect j syntax");
     }
 }

@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90f2caec-a58d-4671-851e-fea11e8e245f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/media/second_test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/third_test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/aspect/SecondAspect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/enset/aspect/FirstAspect.aj" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enset/aspect/FirstAspect.aj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,6 +20,7 @@
       <list>
         <option value="Class" />
         <option value="Aspect" />
+        <option value="@Aspect" />
       </list>
     </option>
   </component>
@@ -102,7 +105,7 @@
       <option name="presentableId" value="Default" />
       <updated>1794664509839</updated>
       <workItem from="1794664511255" duration="4868000" />
-      <workItem from="1794669556993" duration="2400000" />
+      <workItem from="1794669556993" duration="3107000" />
     </task>
     <servers />
   </component>
