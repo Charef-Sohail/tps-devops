@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90f2caec-a58d-4671-851e-fea11e8e245f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/media/partie2/logging.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/Partie2/aspect/LogAspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/partie2/logs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media/partie2/logging.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enset/Partie2/aspect/LogAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enset/Partie2/aspect/LogAspect.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,7 +125,7 @@
       <option name="presentableId" value="Default" />
       <updated>1794664509839</updated>
       <workItem from="1794664511255" duration="4868000" />
-      <workItem from="1794669556993" duration="6882000" />
+      <workItem from="1794669556993" duration="7181000" />
     </task>
     <servers />
   </component>

@@ -5,12 +5,18 @@ import org.aspectj.lang.annotation.Around;
 import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Pointcut;
 
+import java.io.IOException;
+import java.util.logging.FileHandler;
 import java.util.logging.Logger;
 
 @Aspect
 public class LogAspect {
 
     private Logger logger = Logger.getLogger(LogAspect.class.getName());
+    public LogAspect() throws IOException{
+        logger.addHandler(new FileHandler("log.xml"));
+        logger.setUseParentHandlers(false);
+    }
 
     // Cible toutes les méthodes de toutes les classes du package 'metier'
     @Pointcut("execution(* com.enset.Partie2.metier.*.*(..))")
