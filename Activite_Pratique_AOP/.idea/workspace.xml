@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90f2caec-a58d-4671-851e-fea11e8e245f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/fac.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/lib.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/aspect/FirstAspect.aj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/test/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/enset/Main.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/second_test.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/enset/aspect/FirstAspect.aj" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enset/aspect/FirstAspect.aj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1794664509839</updated>
       <workItem from="1794664511255" duration="4868000" />
-      <workItem from="1794669556993" duration="1989000" />
+      <workItem from="1794669556993" duration="2400000" />
     </task>
     <servers />
   </component>
