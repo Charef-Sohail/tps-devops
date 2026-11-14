@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="90f2caec-a58d-4671-851e-fea11e8e245f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/media/partie2/first_test.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/Partie2/metier/Compte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/Partie2/metier/IMetierBanque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/Partie2/metier/MetierImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/Partie2/test/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/partie2/logging.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/enset/Partie2/aspect/LogAspect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/comp.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/partie1/comp.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/fac.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/partie1/fac.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/first_test.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/partie1/first_test.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/forth_test.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/partie1/forth_test.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/lib.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/partie1/lib.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/second_test.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/partie1/second_test.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/media/third_test.png" beforeDir="false" afterPath="$PROJECT_DIR$/media/partie1/third_test.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/enset/aspect/FirstAspect.aj" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enset/Partie1/aspect/FirstAspect.aj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/enset/aspect/SecondAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enset/Partie1/aspect/SecondAspect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/enset/test/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/enset/Partie1/test/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Aspect" />
-        <option value="@Aspect" />
         <option value="Class" />
+        <option value="@Aspect" />
       </list>
     </option>
   </component>
@@ -82,6 +69,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sohail\OneDrive\Desktop\ENSET\S5\tps devops\Activite_Pratique_AOP\media\partie2" />
+      <recent name="C:\Users\Sohail\OneDrive\Desktop\ENSET\S5\tps devops\Activite_Pratique_AOP\media\partie1" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.com.enset.Partie2.test.Application">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.enset.test.Application" />
@@ -132,7 +125,7 @@
       <option name="presentableId" value="Default" />
       <updated>1794664509839</updated>
       <workItem from="1794664511255" duration="4868000" />
-      <workItem from="1794669556993" duration="4689000" />
+      <workItem from="1794669556993" duration="6882000" />
     </task>
     <servers />
   </component>
