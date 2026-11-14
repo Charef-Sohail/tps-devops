@@ -1,8 +1,8 @@
-package com.enset.aspect;
+package com.enset.Partie1.aspect;
 
 public aspect FirstAspect {
 // Définition du Pointcut (la cible)
-    pointcut pc1() : execution(* com.enset.test.Application.main(..));
+    pointcut pc1() : execution(* com.enset.Partie1.test.Application.main(..));
 //
 //    // Exécution AVANT la méthode ciblée
 //    before() : pc1() {

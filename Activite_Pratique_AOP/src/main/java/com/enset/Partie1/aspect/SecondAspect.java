@@ -1,4 +1,4 @@
-package com.enset.aspect;
+package com.enset.Partie1.aspect;
 
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.*;
