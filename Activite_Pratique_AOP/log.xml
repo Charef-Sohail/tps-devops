@@ -2,9 +2,9 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2026-11-14T18:18:12.312726500Z</date>
-  <millis>1794680292312</millis>
-  <nanos>726500</nanos>
+  <date>2026-11-14T18:24:49.805506Z</date>
+  <millis>1794680689805</millis>
+  <nanos>506000</nanos>
   <sequence>0</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
@@ -14,9 +14,9 @@
   <message>Avant l'exécution de la méthode : void com.enset.Partie2.metier.MetierImpl.addCompte(Compte)</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:12.341724300Z</date>
-  <millis>1794680292341</millis>
-  <nanos>724300</nanos>
+  <date>2026-11-14T18:24:49.823503400Z</date>
+  <millis>1794680689823</millis>
+  <nanos>503400</nanos>
   <sequence>1</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
@@ -26,9 +26,9 @@
   <message>Avant l'exécution de la méthode : Long com.enset.Partie2.metier.Compte.getCode()</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:12.343725900Z</date>
-  <millis>1794680292343</millis>
-  <nanos>725900</nanos>
+  <date>2026-11-14T18:24:49.831503200Z</date>
+  <millis>1794680689831</millis>
+  <nanos>503200</nanos>
   <sequence>2</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
@@ -38,21 +38,21 @@
   <message>Après l'exécution de la méthode : Long com.enset.Partie2.metier.Compte.getCode()</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:12.347723500Z</date>
-  <millis>1794680292347</millis>
-  <nanos>723500</nanos>
+  <date>2026-11-14T18:24:49.833503400Z</date>
+  <millis>1794680689833</millis>
+  <nanos>503400</nanos>
   <sequence>3</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
   <class>com.enset.Partie2.aspect.LogAspect</class>
   <method>logAround</method>
   <thread>3</thread>
-  <message>Durée d'exécution : 2 ms</message>
+  <message>Durée d'exécution : 7 ms</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:12.348722600Z</date>
-  <millis>1794680292348</millis>
-  <nanos>722600</nanos>
+  <date>2026-11-14T18:24:49.834502800Z</date>
+  <millis>1794680689834</millis>
+  <nanos>502800</nanos>
   <sequence>4</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
@@ -62,9 +62,9 @@
   <message>--------------------------------------------------</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:12.349723Z</date>
-  <millis>1794680292349</millis>
-  <nanos>723000</nanos>
+  <date>2026-11-14T18:24:49.836503Z</date>
+  <millis>1794680689836</millis>
+  <nanos>503000</nanos>
   <sequence>5</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
@@ -74,21 +74,21 @@
   <message>Après l'exécution de la méthode : void com.enset.Partie2.metier.MetierImpl.addCompte(Compte)</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:12.359739600Z</date>
-  <millis>1794680292359</millis>
-  <nanos>739600</nanos>
+  <date>2026-11-14T18:24:49.839504500Z</date>
+  <millis>1794680689839</millis>
+  <nanos>504500</nanos>
   <sequence>6</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
   <class>com.enset.Partie2.aspect.LogAspect</class>
   <method>logAround</method>
   <thread>3</thread>
-  <message>Durée d'exécution : 41 ms</message>
+  <message>Durée d'exécution : 35 ms</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:12.360727800Z</date>
-  <millis>1794680292360</millis>
-  <nanos>727800</nanos>
+  <date>2026-11-14T18:24:49.843507300Z</date>
+  <millis>1794680689843</millis>
+  <nanos>507300</nanos>
   <sequence>7</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
@@ -98,9 +98,9 @@
   <message>--------------------------------------------------</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:18.099271400Z</date>
-  <millis>1794680298099</millis>
-  <nanos>271400</nanos>
+  <date>2026-11-14T18:24:54.833693Z</date>
+  <millis>1794680694833</millis>
+  <nanos>693000</nanos>
   <sequence>8</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
@@ -110,9 +110,9 @@
   <message>Avant l'exécution de la méthode : void com.enset.Partie2.metier.MetierImpl.verser(Long, double)</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:18.102281100Z</date>
-  <millis>1794680298102</millis>
-  <nanos>281100</nanos>
+  <date>2026-11-14T18:24:54.835697300Z</date>
+  <millis>1794680694835</millis>
+  <nanos>697300</nanos>
   <sequence>9</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
@@ -122,9 +122,9 @@
   <message>Avant l'exécution de la méthode : double com.enset.Partie2.metier.Compte.getSolde()</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:18.104273800Z</date>
-  <millis>1794680298104</millis>
-  <nanos>273800</nanos>
+  <date>2026-11-14T18:24:54.837695100Z</date>
+  <millis>1794680694837</millis>
+  <nanos>695100</nanos>
   <sequence>10</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
@@ -134,21 +134,21 @@
   <message>Après l'exécution de la méthode : double com.enset.Partie2.metier.Compte.getSolde()</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:18.106269700Z</date>
-  <millis>1794680298106</millis>
-  <nanos>269700</nanos>
+  <date>2026-11-14T18:24:54.838712Z</date>
+  <millis>1794680694838</millis>
+  <nanos>712000</nanos>
   <sequence>11</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
   <class>com.enset.Partie2.aspect.LogAspect</class>
   <method>logAround</method>
   <thread>3</thread>
-  <message>Durée d'exécution : 3 ms</message>
+  <message>Durée d'exécution : 2 ms</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:18.109266200Z</date>
-  <millis>1794680298109</millis>
-  <nanos>266200</nanos>
+  <date>2026-11-14T18:24:54.846692300Z</date>
+  <millis>1794680694846</millis>
+  <nanos>692300</nanos>
   <sequence>12</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
@@ -158,9 +158,9 @@
   <message>--------------------------------------------------</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:18.110284100Z</date>
-  <millis>1794680298110</millis>
-  <nanos>284100</nanos>
+  <date>2026-11-14T18:24:54.847692300Z</date>
+  <millis>1794680694847</millis>
+  <nanos>692300</nanos>
   <sequence>13</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
@@ -170,9 +170,9 @@
   <message>Avant l'exécution de la méthode : void com.enset.Partie2.metier.Compte.setSolde(double)</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:18.111262200Z</date>
-  <millis>1794680298111</millis>
-  <nanos>262200</nanos>
+  <date>2026-11-14T18:24:54.847692300Z</date>
+  <millis>1794680694847</millis>
+  <nanos>692300</nanos>
   <sequence>14</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
@@ -182,21 +182,21 @@
   <message>Après l'exécution de la méthode : void com.enset.Partie2.metier.Compte.setSolde(double)</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:18.112261Z</date>
-  <millis>1794680298112</millis>
-  <nanos>261000</nanos>
+  <date>2026-11-14T18:24:54.848697900Z</date>
+  <millis>1794680694848</millis>
+  <nanos>697900</nanos>
   <sequence>15</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
   <class>com.enset.Partie2.aspect.LogAspect</class>
   <method>logAround</method>
   <thread>3</thread>
-  <message>Durée d'exécution : 1 ms</message>
+  <message>Durée d'exécution : 0 ms</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:18.113258700Z</date>
-  <millis>1794680298113</millis>
-  <nanos>258700</nanos>
+  <date>2026-11-14T18:24:54.848697900Z</date>
+  <millis>1794680694848</millis>
+  <nanos>697900</nanos>
   <sequence>16</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
@@ -206,9 +206,9 @@
   <message>--------------------------------------------------</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:18.114263800Z</date>
-  <millis>1794680298114</millis>
-  <nanos>263800</nanos>
+  <date>2026-11-14T18:24:54.849691Z</date>
+  <millis>1794680694849</millis>
+  <nanos>691000</nanos>
   <sequence>17</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
@@ -218,21 +218,21 @@
   <message>Après l'exécution de la méthode : void com.enset.Partie2.metier.MetierImpl.verser(Long, double)</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:18.115261Z</date>
-  <millis>1794680298115</millis>
-  <nanos>261000</nanos>
+  <date>2026-11-14T18:24:54.849691Z</date>
+  <millis>1794680694849</millis>
+  <nanos>691000</nanos>
   <sequence>18</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
   <class>com.enset.Partie2.aspect.LogAspect</class>
   <method>logAround</method>
   <thread>3</thread>
-  <message>Durée d'exécution : 15 ms</message>
+  <message>Durée d'exécution : 16 ms</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:18.115261Z</date>
-  <millis>1794680298115</millis>
-  <nanos>261000</nanos>
+  <date>2026-11-14T18:24:54.850692500Z</date>
+  <millis>1794680694850</millis>
+  <nanos>692500</nanos>
   <sequence>19</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
@@ -242,9 +242,9 @@
   <message>--------------------------------------------------</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:18.116268900Z</date>
-  <millis>1794680298116</millis>
-  <nanos>268900</nanos>
+  <date>2026-11-14T18:24:54.850692500Z</date>
+  <millis>1794680694850</millis>
+  <nanos>692500</nanos>
   <sequence>20</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
@@ -254,9 +254,9 @@
   <message>Avant l'exécution de la méthode : Compte com.enset.Partie2.metier.MetierImpl.consulter(Long)</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:18.119317600Z</date>
-  <millis>1794680298119</millis>
-  <nanos>317600</nanos>
+  <date>2026-11-14T18:24:54.851689600Z</date>
+  <millis>1794680694851</millis>
+  <nanos>689600</nanos>
   <sequence>21</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
@@ -266,21 +266,21 @@
   <message>Après l'exécution de la méthode : Compte com.enset.Partie2.metier.MetierImpl.consulter(Long)</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:18.120267500Z</date>
-  <millis>1794680298120</millis>
-  <nanos>267500</nanos>
+  <date>2026-11-14T18:24:54.851689600Z</date>
+  <millis>1794680694851</millis>
+  <nanos>689600</nanos>
   <sequence>22</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
   <class>com.enset.Partie2.aspect.LogAspect</class>
   <method>logAround</method>
   <thread>3</thread>
-  <message>Durée d'exécution : 3 ms</message>
+  <message>Durée d'exécution : 1 ms</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:18.121263800Z</date>
-  <millis>1794680298121</millis>
-  <nanos>263800</nanos>
+  <date>2026-11-14T18:24:54.852692500Z</date>
+  <millis>1794680694852</millis>
+  <nanos>692500</nanos>
   <sequence>23</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
@@ -290,9 +290,9 @@
   <message>--------------------------------------------------</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:18.123291800Z</date>
-  <millis>1794680298123</millis>
-  <nanos>291800</nanos>
+  <date>2026-11-14T18:24:54.852692500Z</date>
+  <millis>1794680694852</millis>
+  <nanos>692500</nanos>
   <sequence>24</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
@@ -302,9 +302,9 @@
   <message>Avant l'exécution de la méthode : String com.enset.Partie2.metier.Compte.toString()</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:18.130264400Z</date>
-  <millis>1794680298130</millis>
-  <nanos>264400</nanos>
+  <date>2026-11-14T18:24:54.859694600Z</date>
+  <millis>1794680694859</millis>
+  <nanos>694600</nanos>
   <sequence>25</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
@@ -314,9 +314,9 @@
   <message>Après l'exécution de la méthode : String com.enset.Partie2.metier.Compte.toString()</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:18.130264400Z</date>
-  <millis>1794680298130</millis>
-  <nanos>264400</nanos>
+  <date>2026-11-14T18:24:54.860701500Z</date>
+  <millis>1794680694860</millis>
+  <nanos>701500</nanos>
   <sequence>26</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
@@ -326,9 +326,9 @@
   <message>Durée d'exécution : 7 ms</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:18.131271800Z</date>
-  <millis>1794680298131</millis>
-  <nanos>271800</nanos>
+  <date>2026-11-14T18:24:54.860701500Z</date>
+  <millis>1794680694860</millis>
+  <nanos>701500</nanos>
   <sequence>27</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
@@ -338,154 +338,10 @@
   <message>--------------------------------------------------</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:23.655792100Z</date>
-  <millis>1794680303655</millis>
-  <nanos>792100</nanos>
+  <date>2026-11-14T18:25:04.029718200Z</date>
+  <millis>1794680704029</millis>
+  <nanos>718200</nanos>
   <sequence>28</sequence>
-  <logger>com.enset.Partie2.aspect.LogAspect</logger>
-  <level>INFO</level>
-  <class>com.enset.Partie2.aspect.LogAspect</class>
-  <method>logAround</method>
-  <thread>3</thread>
-  <message>Avant l'exécution de la méthode : void com.enset.Partie2.metier.MetierImpl.retirer(Long, double)</message>
-</record>
-<record>
-  <date>2026-11-14T18:18:23.659798Z</date>
-  <millis>1794680303659</millis>
-  <nanos>798000</nanos>
-  <sequence>29</sequence>
-  <logger>com.enset.Partie2.aspect.LogAspect</logger>
-  <level>INFO</level>
-  <class>com.enset.Partie2.aspect.LogAspect</class>
-  <method>logAround</method>
-  <thread>3</thread>
-  <message>Avant l'exécution de la méthode : double com.enset.Partie2.metier.Compte.getSolde()</message>
-</record>
-<record>
-  <date>2026-11-14T18:18:23.661790600Z</date>
-  <millis>1794680303661</millis>
-  <nanos>790600</nanos>
-  <sequence>30</sequence>
-  <logger>com.enset.Partie2.aspect.LogAspect</logger>
-  <level>INFO</level>
-  <class>com.enset.Partie2.aspect.LogAspect</class>
-  <method>logAround</method>
-  <thread>3</thread>
-  <message>Après l'exécution de la méthode : double com.enset.Partie2.metier.Compte.getSolde()</message>
-</record>
-<record>
-  <date>2026-11-14T18:18:23.662791600Z</date>
-  <millis>1794680303662</millis>
-  <nanos>791600</nanos>
-  <sequence>31</sequence>
-  <logger>com.enset.Partie2.aspect.LogAspect</logger>
-  <level>INFO</level>
-  <class>com.enset.Partie2.aspect.LogAspect</class>
-  <method>logAround</method>
-  <thread>3</thread>
-  <message>Durée d'exécution : 1 ms</message>
-</record>
-<record>
-  <date>2026-11-14T18:18:23.663797300Z</date>
-  <millis>1794680303663</millis>
-  <nanos>797300</nanos>
-  <sequence>32</sequence>
-  <logger>com.enset.Partie2.aspect.LogAspect</logger>
-  <level>INFO</level>
-  <class>com.enset.Partie2.aspect.LogAspect</class>
-  <method>logAround</method>
-  <thread>3</thread>
-  <message>--------------------------------------------------</message>
-</record>
-<record>
-  <date>2026-11-14T18:18:23.664789700Z</date>
-  <millis>1794680303664</millis>
-  <nanos>789700</nanos>
-  <sequence>33</sequence>
-  <logger>com.enset.Partie2.aspect.LogAspect</logger>
-  <level>INFO</level>
-  <class>com.enset.Partie2.aspect.LogAspect</class>
-  <method>logAround</method>
-  <thread>3</thread>
-  <message>Avant l'exécution de la méthode : void com.enset.Partie2.metier.Compte.setSolde(double)</message>
-</record>
-<record>
-  <date>2026-11-14T18:18:23.665787800Z</date>
-  <millis>1794680303665</millis>
-  <nanos>787800</nanos>
-  <sequence>34</sequence>
-  <logger>com.enset.Partie2.aspect.LogAspect</logger>
-  <level>INFO</level>
-  <class>com.enset.Partie2.aspect.LogAspect</class>
-  <method>logAround</method>
-  <thread>3</thread>
-  <message>Après l'exécution de la méthode : void com.enset.Partie2.metier.Compte.setSolde(double)</message>
-</record>
-<record>
-  <date>2026-11-14T18:18:23.665787800Z</date>
-  <millis>1794680303665</millis>
-  <nanos>787800</nanos>
-  <sequence>35</sequence>
-  <logger>com.enset.Partie2.aspect.LogAspect</logger>
-  <level>INFO</level>
-  <class>com.enset.Partie2.aspect.LogAspect</class>
-  <method>logAround</method>
-  <thread>3</thread>
-  <message>Durée d'exécution : 1 ms</message>
-</record>
-<record>
-  <date>2026-11-14T18:18:23.669790100Z</date>
-  <millis>1794680303669</millis>
-  <nanos>790100</nanos>
-  <sequence>36</sequence>
-  <logger>com.enset.Partie2.aspect.LogAspect</logger>
-  <level>INFO</level>
-  <class>com.enset.Partie2.aspect.LogAspect</class>
-  <method>logAround</method>
-  <thread>3</thread>
-  <message>--------------------------------------------------</message>
-</record>
-<record>
-  <date>2026-11-14T18:18:23.670795700Z</date>
-  <millis>1794680303670</millis>
-  <nanos>795700</nanos>
-  <sequence>37</sequence>
-  <logger>com.enset.Partie2.aspect.LogAspect</logger>
-  <level>INFO</level>
-  <class>com.enset.Partie2.aspect.LogAspect</class>
-  <method>logAround</method>
-  <thread>3</thread>
-  <message>Après l'exécution de la méthode : void com.enset.Partie2.metier.MetierImpl.retirer(Long, double)</message>
-</record>
-<record>
-  <date>2026-11-14T18:18:23.679781900Z</date>
-  <millis>1794680303679</millis>
-  <nanos>781900</nanos>
-  <sequence>38</sequence>
-  <logger>com.enset.Partie2.aspect.LogAspect</logger>
-  <level>INFO</level>
-  <class>com.enset.Partie2.aspect.LogAspect</class>
-  <method>logAround</method>
-  <thread>3</thread>
-  <message>Durée d'exécution : 14 ms</message>
-</record>
-<record>
-  <date>2026-11-14T18:18:23.679781900Z</date>
-  <millis>1794680303679</millis>
-  <nanos>781900</nanos>
-  <sequence>39</sequence>
-  <logger>com.enset.Partie2.aspect.LogAspect</logger>
-  <level>INFO</level>
-  <class>com.enset.Partie2.aspect.LogAspect</class>
-  <method>logAround</method>
-  <thread>3</thread>
-  <message>--------------------------------------------------</message>
-</record>
-<record>
-  <date>2026-11-14T18:18:23.680784500Z</date>
-  <millis>1794680303680</millis>
-  <nanos>784500</nanos>
-  <sequence>40</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
   <class>com.enset.Partie2.aspect.LogAspect</class>
@@ -494,10 +350,10 @@
   <message>Avant l'exécution de la méthode : Compte com.enset.Partie2.metier.MetierImpl.consulter(Long)</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:23.680784500Z</date>
-  <millis>1794680303680</millis>
-  <nanos>784500</nanos>
-  <sequence>41</sequence>
+  <date>2026-11-14T18:25:04.030724Z</date>
+  <millis>1794680704030</millis>
+  <nanos>724000</nanos>
+  <sequence>29</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
   <class>com.enset.Partie2.aspect.LogAspect</class>
@@ -506,22 +362,22 @@
   <message>Après l'exécution de la méthode : Compte com.enset.Partie2.metier.MetierImpl.consulter(Long)</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:23.681784100Z</date>
-  <millis>1794680303681</millis>
-  <nanos>784100</nanos>
-  <sequence>42</sequence>
+  <date>2026-11-14T18:25:04.030724Z</date>
+  <millis>1794680704030</millis>
+  <nanos>724000</nanos>
+  <sequence>30</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
   <class>com.enset.Partie2.aspect.LogAspect</class>
   <method>logAround</method>
   <thread>3</thread>
-  <message>Durée d'exécution : 0 ms</message>
+  <message>Durée d'exécution : 1 ms</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:23.681784100Z</date>
-  <millis>1794680303681</millis>
-  <nanos>784100</nanos>
-  <sequence>43</sequence>
+  <date>2026-11-14T18:25:04.031705100Z</date>
+  <millis>1794680704031</millis>
+  <nanos>705100</nanos>
+  <sequence>31</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
   <class>com.enset.Partie2.aspect.LogAspect</class>
@@ -530,10 +386,250 @@
   <message>--------------------------------------------------</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:23.682782400Z</date>
-  <millis>1794680303682</millis>
-  <nanos>782400</nanos>
+  <date>2026-11-14T18:25:04.032724400Z</date>
+  <millis>1794680704032</millis>
+  <nanos>724400</nanos>
+  <sequence>32</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Avant l'exécution de la méthode : double com.enset.Partie2.metier.Compte.getSolde()</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:04.033711200Z</date>
+  <millis>1794680704033</millis>
+  <nanos>711200</nanos>
+  <sequence>33</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Après l'exécution de la méthode : double com.enset.Partie2.metier.Compte.getSolde()</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:04.034693600Z</date>
+  <millis>1794680704034</millis>
+  <nanos>693600</nanos>
+  <sequence>34</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Durée d'exécution : 1 ms</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:04.035697200Z</date>
+  <millis>1794680704035</millis>
+  <nanos>697200</nanos>
+  <sequence>35</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>--------------------------------------------------</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:04.038695200Z</date>
+  <millis>1794680704038</millis>
+  <nanos>695200</nanos>
+  <sequence>36</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Avant l'exécution de la méthode : void com.enset.Partie2.metier.MetierImpl.retirer(Long, double)</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:04.040696900Z</date>
+  <millis>1794680704040</millis>
+  <nanos>696900</nanos>
+  <sequence>37</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Avant l'exécution de la méthode : double com.enset.Partie2.metier.Compte.getSolde()</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:04.041693300Z</date>
+  <millis>1794680704041</millis>
+  <nanos>693300</nanos>
+  <sequence>38</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Après l'exécution de la méthode : double com.enset.Partie2.metier.Compte.getSolde()</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:04.043734500Z</date>
+  <millis>1794680704043</millis>
+  <nanos>734500</nanos>
+  <sequence>39</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Durée d'exécution : 1 ms</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:04.044690200Z</date>
+  <millis>1794680704044</millis>
+  <nanos>690200</nanos>
+  <sequence>40</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>--------------------------------------------------</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:04.044690200Z</date>
+  <millis>1794680704044</millis>
+  <nanos>690200</nanos>
+  <sequence>41</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Avant l'exécution de la méthode : void com.enset.Partie2.metier.Compte.setSolde(double)</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:04.045688800Z</date>
+  <millis>1794680704045</millis>
+  <nanos>688800</nanos>
+  <sequence>42</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Après l'exécution de la méthode : void com.enset.Partie2.metier.Compte.setSolde(double)</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:04.045688800Z</date>
+  <millis>1794680704045</millis>
+  <nanos>688800</nanos>
+  <sequence>43</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Durée d'exécution : 1 ms</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:04.046689Z</date>
+  <millis>1794680704046</millis>
+  <nanos>689000</nanos>
   <sequence>44</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>--------------------------------------------------</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:04.046689Z</date>
+  <millis>1794680704046</millis>
+  <nanos>689000</nanos>
+  <sequence>45</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Après l'exécution de la méthode : void com.enset.Partie2.metier.MetierImpl.retirer(Long, double)</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:04.047707600Z</date>
+  <millis>1794680704047</millis>
+  <nanos>707600</nanos>
+  <sequence>46</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Durée d'exécution : 8 ms</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:04.047707600Z</date>
+  <millis>1794680704047</millis>
+  <nanos>707600</nanos>
+  <sequence>47</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>--------------------------------------------------</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:04.048691400Z</date>
+  <millis>1794680704048</millis>
+  <nanos>691400</nanos>
+  <sequence>48</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Avant l'exécution de la méthode : Compte com.enset.Partie2.metier.MetierImpl.consulter(Long)</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:04.048691400Z</date>
+  <millis>1794680704048</millis>
+  <nanos>691400</nanos>
+  <sequence>49</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Après l'exécution de la méthode : Compte com.enset.Partie2.metier.MetierImpl.consulter(Long)</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:04.049695100Z</date>
+  <millis>1794680704049</millis>
+  <nanos>695100</nanos>
+  <sequence>50</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Durée d'exécution : 0 ms</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:04.049695100Z</date>
+  <millis>1794680704049</millis>
+  <nanos>695100</nanos>
+  <sequence>51</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>--------------------------------------------------</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:04.050691600Z</date>
+  <millis>1794680704050</millis>
+  <nanos>691600</nanos>
+  <sequence>52</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
   <class>com.enset.Partie2.aspect.LogAspect</class>
@@ -542,10 +638,10 @@
   <message>Avant l'exécution de la méthode : String com.enset.Partie2.metier.Compte.toString()</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:23.684815200Z</date>
-  <millis>1794680303684</millis>
-  <nanos>815200</nanos>
-  <sequence>45</sequence>
+  <date>2026-11-14T18:25:04.050691600Z</date>
+  <millis>1794680704050</millis>
+  <nanos>691600</nanos>
+  <sequence>53</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
   <class>com.enset.Partie2.aspect.LogAspect</class>
@@ -554,22 +650,358 @@
   <message>Après l'exécution de la méthode : String com.enset.Partie2.metier.Compte.toString()</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:23.685815100Z</date>
-  <millis>1794680303685</millis>
-  <nanos>815100</nanos>
-  <sequence>46</sequence>
+  <date>2026-11-14T18:25:04.051693100Z</date>
+  <millis>1794680704051</millis>
+  <nanos>693100</nanos>
+  <sequence>54</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
   <class>com.enset.Partie2.aspect.LogAspect</class>
   <method>logAround</method>
   <thread>3</thread>
-  <message>Durée d'exécution : 2 ms</message>
+  <message>Durée d'exécution : 0 ms</message>
 </record>
 <record>
-  <date>2026-11-14T18:18:23.686787700Z</date>
-  <millis>1794680303686</millis>
-  <nanos>787700</nanos>
-  <sequence>47</sequence>
+  <date>2026-11-14T18:25:04.051693100Z</date>
+  <millis>1794680704051</millis>
+  <nanos>693100</nanos>
+  <sequence>55</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>--------------------------------------------------</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:09.027560Z</date>
+  <millis>1794680709027</millis>
+  <nanos>560000</nanos>
+  <sequence>56</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Avant l'exécution de la méthode : Compte com.enset.Partie2.metier.MetierImpl.consulter(Long)</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:09.029562Z</date>
+  <millis>1794680709029</millis>
+  <nanos>562000</nanos>
+  <sequence>57</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Après l'exécution de la méthode : Compte com.enset.Partie2.metier.MetierImpl.consulter(Long)</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:09.029562Z</date>
+  <millis>1794680709029</millis>
+  <nanos>562000</nanos>
+  <sequence>58</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Durée d'exécution : 1 ms</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:09.030565600Z</date>
+  <millis>1794680709030</millis>
+  <nanos>565600</nanos>
+  <sequence>59</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>--------------------------------------------------</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:09.031570400Z</date>
+  <millis>1794680709031</millis>
+  <nanos>570400</nanos>
+  <sequence>60</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Avant l'exécution de la méthode : double com.enset.Partie2.metier.Compte.getSolde()</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:09.032559900Z</date>
+  <millis>1794680709032</millis>
+  <nanos>559900</nanos>
+  <sequence>61</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Après l'exécution de la méthode : double com.enset.Partie2.metier.Compte.getSolde()</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:09.033560700Z</date>
+  <millis>1794680709033</millis>
+  <nanos>560700</nanos>
+  <sequence>62</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Durée d'exécution : 1 ms</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:09.033560700Z</date>
+  <millis>1794680709033</millis>
+  <nanos>560700</nanos>
+  <sequence>63</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>--------------------------------------------------</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:19.067695200Z</date>
+  <millis>1794680719067</millis>
+  <nanos>695200</nanos>
+  <sequence>64</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Avant l'exécution de la méthode : void com.enset.Partie2.metier.MetierImpl.verser(Long, double)</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:19.068696700Z</date>
+  <millis>1794680719068</millis>
+  <nanos>696700</nanos>
+  <sequence>65</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Avant l'exécution de la méthode : double com.enset.Partie2.metier.Compte.getSolde()</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:19.071704Z</date>
+  <millis>1794680719071</millis>
+  <nanos>704000</nanos>
+  <sequence>66</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Après l'exécution de la méthode : double com.enset.Partie2.metier.Compte.getSolde()</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:19.072718600Z</date>
+  <millis>1794680719072</millis>
+  <nanos>718600</nanos>
+  <sequence>67</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Durée d'exécution : 3 ms</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:19.073717Z</date>
+  <millis>1794680719073</millis>
+  <nanos>717000</nanos>
+  <sequence>68</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>--------------------------------------------------</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:19.076706600Z</date>
+  <millis>1794680719076</millis>
+  <nanos>706600</nanos>
+  <sequence>69</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Avant l'exécution de la méthode : void com.enset.Partie2.metier.Compte.setSolde(double)</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:19.077710500Z</date>
+  <millis>1794680719077</millis>
+  <nanos>710500</nanos>
+  <sequence>70</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Après l'exécution de la méthode : void com.enset.Partie2.metier.Compte.setSolde(double)</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:19.078697500Z</date>
+  <millis>1794680719078</millis>
+  <nanos>697500</nanos>
+  <sequence>71</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Durée d'exécution : 1 ms</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:19.078697500Z</date>
+  <millis>1794680719078</millis>
+  <nanos>697500</nanos>
+  <sequence>72</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>--------------------------------------------------</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:19.079690900Z</date>
+  <millis>1794680719079</millis>
+  <nanos>690900</nanos>
+  <sequence>73</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Après l'exécution de la méthode : void com.enset.Partie2.metier.MetierImpl.verser(Long, double)</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:19.079690900Z</date>
+  <millis>1794680719079</millis>
+  <nanos>690900</nanos>
+  <sequence>74</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Durée d'exécution : 13 ms</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:19.079690900Z</date>
+  <millis>1794680719079</millis>
+  <nanos>690900</nanos>
+  <sequence>75</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>--------------------------------------------------</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:19.080697600Z</date>
+  <millis>1794680719080</millis>
+  <nanos>697600</nanos>
+  <sequence>76</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Avant l'exécution de la méthode : Compte com.enset.Partie2.metier.MetierImpl.consulter(Long)</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:19.081694600Z</date>
+  <millis>1794680719081</millis>
+  <nanos>694600</nanos>
+  <sequence>77</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Après l'exécution de la méthode : Compte com.enset.Partie2.metier.MetierImpl.consulter(Long)</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:19.083716600Z</date>
+  <millis>1794680719083</millis>
+  <nanos>716600</nanos>
+  <sequence>78</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Durée d'exécution : 1 ms</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:19.086694900Z</date>
+  <millis>1794680719086</millis>
+  <nanos>694900</nanos>
+  <sequence>79</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>--------------------------------------------------</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:19.087706800Z</date>
+  <millis>1794680719087</millis>
+  <nanos>706800</nanos>
+  <sequence>80</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Avant l'exécution de la méthode : String com.enset.Partie2.metier.Compte.toString()</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:19.087706800Z</date>
+  <millis>1794680719087</millis>
+  <nanos>706800</nanos>
+  <sequence>81</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Après l'exécution de la méthode : String com.enset.Partie2.metier.Compte.toString()</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:19.088694700Z</date>
+  <millis>1794680719088</millis>
+  <nanos>694700</nanos>
+  <sequence>82</sequence>
+  <logger>com.enset.Partie2.aspect.LogAspect</logger>
+  <level>INFO</level>
+  <class>com.enset.Partie2.aspect.LogAspect</class>
+  <method>logAround</method>
+  <thread>3</thread>
+  <message>Durée d'exécution : 0 ms</message>
+</record>
+<record>
+  <date>2026-11-14T18:25:19.089693100Z</date>
+  <millis>1794680719089</millis>
+  <nanos>693100</nanos>
+  <sequence>83</sequence>
   <logger>com.enset.Partie2.aspect.LogAspect</logger>
   <level>INFO</level>
   <class>com.enset.Partie2.aspect.LogAspect</class>
