@@ -18,3 +18,4 @@ Les Design Patterns du catalogue GoF sont répartis en trois catégories : créa
 | [DP Adapter](DP_adapter/README.md)     | Étude et implémentation du pattern structurel **Adapter**, qui permet de faire collaborer des interfaces incompatibles grâce à un objet adaptateur.               |
 | [TP Global](TP_global/README.md)       | Exercices de conception et d'implémentation réunissant plusieurs Design Patterns : Composite, Template Method, Factory, Decorator, Observer, Strategy et Adapter. |
 | [Activité pratique AOP](Activite_Pratique_AOP/README.md) | Mise en pratique de la programmation orientée aspect avec AspectJ et Spring AOP : interception, journalisation, sécurité et autorisation. |
+| [Examen Design Patterns](Examen_Design_Pattern/README.md) | Application de plusieurs Design Patterns à un réseau de neurones : Strategy, Adapter, Composite, State, Observer et AOP. |
