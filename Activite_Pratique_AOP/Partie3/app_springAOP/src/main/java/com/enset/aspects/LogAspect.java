@@ -16,7 +16,7 @@ public class LogAspect {
     private Logger logger = Logger.getLogger(LogAspect.class.getName());
 
 
-    @Around("execution(* com.enset.service..*(..))")
+    @Around("@annotation(com.enset.aspects.Log)")
     public Object logAround(ProceedingJoinPoint joinPoint) throws Throwable {
         long t1 = System.currentTimeMillis();
         logger.info("Début d'exécution de : " + joinPoint.getSignature().getName());
