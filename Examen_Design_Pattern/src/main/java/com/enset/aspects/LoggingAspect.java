@@ -1,19 +1,17 @@
 package com.enset.aspects;
 
 import org.aspectj.lang.annotation.Aspect;
-
 import org.aspectj.lang.ProceedingJoinPoint;
 import org.aspectj.lang.annotation.Around;
-import org.aspectj.lang.annotation.Aspect;
 import org.aspectj.lang.annotation.Pointcut;
 import java.util.logging.Logger;
 
 @Aspect
 public class LoggingAspect {
 
-    private Logger logger = Logger.getLogger(LoggingAspect.class.getName());
+    private final Logger logger = Logger.getLogger(LoggingAspect.class.getName());
 
-    @Pointcut("execution(* ma.enset.nn.core..*(..))")
+    @Pointcut("execution(* com.enset.core..*(..))")
     public void allCoreMethods() { }
 
     @Around("allCoreMethods()")
