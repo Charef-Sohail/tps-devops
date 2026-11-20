@@ -12,7 +12,8 @@ import java.util.List;
 public class Main {
     static void main() {
         JsonSerializer<BankAccount> serializer = new JsonSerializer<>();
-        AccountRepositoryImpl accountRepository = new AccountRepositoryImpl();
+        AccountRepositoryImpl accountRepository = AccountRepositoryImpl.getInstance();
+
         accountRepository.populateData();
         List<BankAccount> bankAccounts = accountRepository.findAll();
         bankAccounts.stream()

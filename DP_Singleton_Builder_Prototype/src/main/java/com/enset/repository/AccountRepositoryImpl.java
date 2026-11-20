@@ -11,10 +11,21 @@ import java.util.stream.Collectors;
 
 public class AccountRepositoryImpl implements AccountRepository {
 
+    private static final AccountRepositoryImpl accountRepository;
+
+    static {
+        System.out.println("Singleton instantiation");
+        accountRepository = new AccountRepositoryImpl();
+    }
+    public static AccountRepositoryImpl getInstance() {
+        return accountRepository;
+    }
+
     private Map<Long, BankAccount> bankAccountMap = new HashMap<>();
     private long accountsCount = 0;
 
-    public AccountRepositoryImpl() {}
+    private AccountRepositoryImpl() {}
+
 
 
     @Override
