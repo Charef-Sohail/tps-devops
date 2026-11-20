@@ -30,7 +30,10 @@ public class AccountRepositoryImpl implements AccountRepository {
 
     @Override
     public BankAccount save(BankAccount bankAccount) {
-        Long accountId = ++accountsCount;
+        Long accountId;
+        synchronized (this){
+            accountId = ++accountsCount;//critical zone
+        }
         bankAccount.setAccountId(accountId);
         bankAccountMap.put(accountId, bankAccount);
         return bankAccount;
@@ -76,6 +79,12 @@ public class AccountRepositoryImpl implements AccountRepository {
                     .build();
             save(account);
         }
+        System.out.println("*************************");
+        System.out.println(Thread.currentThread().getName()
+                + " | Count = " + accountsCount
+                + " | Size = " + bankAccountMap.size());
+        System.out.println("*************************");
+
     }
 
 }
