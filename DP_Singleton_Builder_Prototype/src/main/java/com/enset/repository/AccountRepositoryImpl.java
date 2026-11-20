@@ -31,11 +31,15 @@ public class AccountRepositoryImpl implements AccountRepository {
     @Override
     public BankAccount save(BankAccount bankAccount) {
         Long accountId;
-        synchronized (this){
-            accountId = ++accountsCount;//critical zone
+        // Zone critique 1 : incrémentation protégée
+        synchronized (this) {
+            accountId = ++accountsCount;
         }
         bankAccount.setAccountId(accountId);
-        bankAccountMap.put(accountId, bankAccount);
+        // Zone critique 2 : écriture dans la HashMap protégée
+        synchronized (this) {
+            bankAccountMap.put(accountId, bankAccount);
+        }
         return bankAccount;
     }
 
